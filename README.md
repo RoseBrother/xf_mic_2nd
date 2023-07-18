@@ -1,5 +1,6 @@
 # xf_mic_2nd
-科大讯飞第二代环形六麦克风阵列相关材料
+科大讯飞第二代环形六麦克风阵列相关材料     
+
 ![image](https://github.com/RoseBrother/xf_mic_2nd/assets/64388189/e9c26b8e-31e7-426c-b092-49f42e94fb19)
 
 
